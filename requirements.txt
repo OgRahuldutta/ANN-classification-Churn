@@ -1,0 +1,20 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+flask
+memory_profiler
+streamlit
+scikit-learn
+bs4
+openpyxl
+statsmodels
+flask
+plotly
+# jupyter ipython nbformat
+mlflow
+nltk
+tensorflow
+tensorboard
+keras
